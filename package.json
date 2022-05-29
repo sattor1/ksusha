@@ -10,7 +10,6 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "lightbox2": "^2.11.3",
     "v-viewer": "^1.6.4",
     "vue": "^2.5.2",
     "vue-pose": "^0.5.1",
