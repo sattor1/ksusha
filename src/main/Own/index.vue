@@ -15,6 +15,7 @@
             class="own-img"
           />
         </viewer>
+
         <viewer>
           <img
             src="@/assets/own_projects/2.jpg"
